@@ -36,7 +36,7 @@ We will likely look at data from American political texts as well as European an
 
 *Need more info here  
 We will largely be using an accuracy of log probabilities model here as we have previously with our text classification models. Here we can also use precision and recall. The prediction
-scores of our model will be computed against the hand annotations.
+scores of our model will be computed against the hand annotations. This will largely depend on what we decide to classify the political texts a i.e. binary classification for democrats vs republicans.
 
 ## Tentative Week-by-Week Timeline
 
