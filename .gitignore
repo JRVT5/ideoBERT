@@ -1,0 +1,6 @@
+# Ignore virtual environments
+venv/
+
+# Ignore Note Files
+notes.md
+proposal.md
